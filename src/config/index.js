@@ -1,11 +1,12 @@
 export default {
   ucapan: [
-    "Whatever happens, keep breathing",
-    "Harta, Tahta, Kamu >.<",
-    "Hey! I wuv chuuuu! UwU",
+    "Whatever happens, Jihyo ku tetap wangy wangy!",
+    "Harta, Tahta, Jihyokuhhh 🥰",
+    "Hey! I wuv chuuuu, Jihyo! 🫰🏻",
+    "Jihyo wangy wangy cutie 👉🏻👈🏻",
   ],
   authorized: ["180.247.208.251", "202.67.39.21", "36.73.188.37"],
-  panggilan: ["Aini"],
+  panggilan: ["Jihyo", "Ji-hyo luv", "My Jihyo", "Ma Luv Jihyo"],
   colors: [
     "#FF6900",
     "#FCB900",
