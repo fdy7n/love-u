@@ -14,7 +14,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      bgcolor: "#ff6900",
+      bgcolor: "#d2afff",
       displayColorPicker: false,
       text: "",
       isDeleting: false,
